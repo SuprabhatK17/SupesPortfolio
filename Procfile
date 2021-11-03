@@ -1,0 +1,1 @@
+web: gunicorn suprabhat.wsgi --log-file
