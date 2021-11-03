@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-!y+cf13rb30x!8jp602w^v0+uubiz9=5to)#m-@6b^9%wzsysu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','suprabhat.heroku.com','suprabhat.com','www.suprabhat.com']
+ALLOWED_HOSTS = ['127.0.0.1','suprabhat.herokuapp.com','suprabhat.com','www.suprabhat.com']
 
 
 # Application definition
